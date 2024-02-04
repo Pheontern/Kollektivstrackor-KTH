@@ -1,0 +1,2 @@
+Om programmet ska fungera lokalt så kan man antingen specificera en directory för alla gtfs-filer.
+eller lägga en mapp vid namn sl bredvid den här projektmappen (alltså utanför repon).
